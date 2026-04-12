@@ -6,6 +6,9 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   docs:
     uses: echecsjs/.github/.github/workflows/docs.yml@main
