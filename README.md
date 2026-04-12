@@ -1,9 +1,9 @@
 # ELO
 
 [![npm](https://img.shields.io/npm/v/@echecs/elo)](https://www.npmjs.com/package/@echecs/elo)
-[![Coverage](https://codecov.io/gh/mormubis/elo/branch/main/graph/badge.svg)](https://codecov.io/gh/mormubis/elo)
+[![Coverage](https://codecov.io/gh/echecsjs/elo/branch/main/graph/badge.svg)](https://codecov.io/gh/echecsjs/elo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![API Docs](https://img.shields.io/badge/API-docs-blue.svg)](https://mormubis.github.io/elo/)
+[![API Docs](https://img.shields.io/badge/API-docs-blue.svg)](https://echecsjs.github.io/elo/)
 
 **ELO** is a small TypeScript library for calculating
 [Elo ratings](https://en.wikipedia.org/wiki/Elo_rating_system) — the system used
@@ -141,7 +141,7 @@ const rating = initial([
 
 ## API
 
-Full API reference is available at https://mormubis.github.io/elo/
+Full API reference is available at https://echecsjs.github.io/elo/
 
 ### Functions
 

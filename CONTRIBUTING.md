@@ -10,7 +10,7 @@ Thank you for your interest in contributing to `@echecs/elo`.
 ## Setup
 
 ```bash
-git clone git@github.com:mormubis/elo.git
+git clone git@github.com:echecsjs/elo.git
 cd elo
 pnpm install
 ```
@@ -51,7 +51,7 @@ pnpm build
 
 ## Reporting Bugs
 
-Open an issue at https://github.com/mormubis/elo/issues and include:
+Open an issue at https://github.com/echecsjs/elo/issues and include:
 
 - A minimal reproducible example
 - Expected vs. actual behaviour

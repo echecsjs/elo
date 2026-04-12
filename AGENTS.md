@@ -6,7 +6,7 @@ implementing the ELO Rating System following FIDE rules.
 **See also:** [`REFERENCES.md`](REFERENCES.md) |
 [`COMPARISON.md`](COMPARISON.md) | [`SPEC.md`](SPEC.md)
 
-**Backlog:** tracked in [GitHub Issues](https://github.com/mormubis/elo/issues).
+**Backlog:** tracked in [GitHub Issues](https://github.com/echecsjs/elo/issues).
 
 ---
 

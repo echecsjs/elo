@@ -1,7 +1,7 @@
 {
   "author": "Adrian de la Rosa <adrian@delarosab.me>",
   "bugs": {
-    "url": "https://github.com/mormubis/elo/issues"
+    "url": "https://github.com/echecsjs/elo/issues"
   },
   "description": "ELO rating system calculator following FIDE rules. Computes K-factor, expected score, rating delta, performance rating, and initial rating for unrated players. Zero dependencies, strict TypeScript.",
   "devDependencies": {
@@ -38,7 +38,7 @@
     "README.md",
     "CHANGELOG.md"
   ],
-  "homepage": "https://github.com/mormubis/elo#readme",
+  "homepage": "https://github.com/echecsjs/elo#readme",
   "keywords": [
     "chess",
     "elo",
@@ -57,7 +57,7 @@
   "name": "@echecs/elo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mormubis/elo.git"
+    "url": "https://github.com/echecsjs/elo.git"
   },
   "sideEffects": false,
   "scripts": {
