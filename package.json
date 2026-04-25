@@ -54,6 +54,7 @@
   ],
   "license": "MIT",
   "name": "@echecs/elo",
+  "packageManager": "pnpm@10.33.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/echecsjs/elo.git"
