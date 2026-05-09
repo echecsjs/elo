@@ -54,6 +54,9 @@
   ],
   "license": "MIT",
   "name": "@echecs/elo",
+  "publishConfig": {
+    "access": "public"
+  },
   "packageManager": "pnpm@10.33.0",
   "repository": {
     "type": "git",
