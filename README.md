@@ -4,6 +4,7 @@
 [![Coverage](https://codecov.io/gh/echecsjs/elo/branch/main/graph/badge.svg)](https://codecov.io/gh/echecsjs/elo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![API Docs](https://img.shields.io/badge/API-docs-blue.svg)](https://elo.echecs.dev/)
+[![Spec](https://img.shields.io/badge/Spec-FIDE-green.svg)](SPEC.md)
 
 **ELO** is a small TypeScript library for calculating
 [Elo ratings](https://en.wikipedia.org/wiki/Elo_rating_system) — the system used
