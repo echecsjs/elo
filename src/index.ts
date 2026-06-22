@@ -180,7 +180,7 @@ function kFactor({
 }: KFactorOptions): number {
   if (
     gamesInPeriod !== undefined &&
-    (gamesInPeriod < 1 || !Number.isInteger(gamesInPeriod))
+    (gamesInPeriod < 1 || !Number.isSafeInteger(gamesInPeriod))
   ) {
     throw new RangeError('gamesInPeriod must be a positive integer');
   }
