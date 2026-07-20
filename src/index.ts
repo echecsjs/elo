@@ -194,7 +194,7 @@ function kFactor({
     k = 20;
   } else if (gamesPlayed <= 30 || (age < 18 && rating < 2300)) {
     k = 40;
-  } else if (rating < 2400 && !everHigher2400) {
+  } else if (!everHigher2400 && rating < 2400) {
     k = 20;
   } else {
     k = 10;
