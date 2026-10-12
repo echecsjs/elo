@@ -5,7 +5,7 @@ import * as importing from 'eslint-plugin-import-x';
 import unicorn from 'eslint-plugin-unicorn';
 import * as typescript from 'typescript-eslint';
 
-export default typescript.config(
+const config = typescript.config(
   { ignores: ['tsdown.config.ts'] },
   eslint.configs.recommended,
   ...typescript.configs.strict,
@@ -63,15 +63,6 @@ export default typescript.config(
           ignore: [/^__tests__$/],
         },
       ],
-    },
-  },
-  /**
-  Config files
-  */
-  {
-    files: ['*.mjs'],
-    rules: {
-      'unicorn/no-top-level-side-effects': 'off',
     },
   },
   /**
@@ -137,3 +128,5 @@ export default typescript.config(
   },
   prettier,
 );
+
+export default config;
